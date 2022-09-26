@@ -1,0 +1,45 @@
+{
+  "navs": ["Tea", "Rice", "Paper Bag"],
+  "rice": [
+    {
+      "name": "Rice 1",
+      "url": "/rice/rice-1",
+      "price": 100,
+      "image": "rice.jpg"
+    },
+    {
+      "name": "Rice 2",
+      "url": "/rice/rice-2",
+      "price": 100,
+      "image": "rice.jpg"
+    }
+  ],
+  "tea": [
+    {
+      "name": "Tea 1",
+      "url": "/tea/tea-1",
+      "price": 100,
+      "image": "tea.jpg"
+    },
+    {
+      "name": "Tea 2",
+      "url": "/tea/tea-2",
+      "price": 100,
+      "image": "tea.jpg"
+    }
+  ],
+  "paper bag": [
+    {
+      "name": "Paper Bag 1",
+      "url": "/paper-bag/paper-bag-1",
+      "price": 100,
+      "image": "paper-bag.jpg"
+    },
+    {
+      "name": "Paper Bag 2",
+      "url": "/paper-bag/paper-bag-2",
+      "price": 100,
+      "image": "paper-bag.jpg"
+    }
+  ]
+}
